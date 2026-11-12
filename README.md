@@ -1,4 +1,6 @@
-# Trance
+# Trance - Auto Edit Slideshow + Rhytm game
+
+This is a rhythm game, osu type of 
 
 Trance is a local rhythm, media, gallery, and AI companion app. It runs as a PySide6 desktop shell over a local Python service. User data stays in `data/`; keep that folder when moving or backing up the app.
 
